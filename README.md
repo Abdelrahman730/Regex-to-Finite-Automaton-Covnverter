@@ -3,7 +3,6 @@
 An interactive visualization tool that converts regular expressions to finite automata (NFA/DFA). Built with C++, Dear ImGui, and Vulkan, this application provides a beautiful, real-time visualization of automaton construction and state transitions.
 
 ![Automaton Visualization](./screenshots/demo.png)
-![Automaton Visualization](./screenshots/demo.png)
 *Automaton Visualization*
 
 ## 🌟 Features
