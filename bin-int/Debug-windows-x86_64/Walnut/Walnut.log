@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2189,5): warning MSB9008: The referenced project ..\vendor\imgui\ImGui.vcxproj does not exist.
+  Application.cpp
+  ImGuiBuild.cpp
+  Image.cpp
+  Random.cpp
+  Generating Code...
+  Walnut.vcxproj -> C:\Projects\Project Latest Update\Regex-to-Finite-Automaton-Covnverter-main\Regex-to-Finite-Automaton-Covnverter-main\Walnut\bin\Debug-windows-x86_64\Walnut\Walnut.lib

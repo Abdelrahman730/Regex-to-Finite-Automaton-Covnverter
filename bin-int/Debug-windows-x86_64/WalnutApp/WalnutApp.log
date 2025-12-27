@@ -1,0 +1,21 @@
+﻿  main.cpp
+  NFA.cpp
+  regularExpression.cpp
+  State.cpp
+  Transition.cpp
+\src\main.cpp(1,1): error C1083: Cannot open source file: 'src\main.cpp': No such file or directory
+  (compiling source file '/src/main.cpp')
+  
+\src\NFA.cpp(1,1): error C1083: Cannot open source file: 'src\NFA.cpp': No such file or directory
+  (compiling source file '/src/NFA.cpp')
+  
+\src\regularExpression.cpp(1,1): error C1083: Cannot open source file: 'src\regularExpression.cpp': No such file or directory
+  (compiling source file '/src/regularExpression.cpp')
+  
+\src\State.cpp(1,1): error C1083: Cannot open source file: 'src\State.cpp': No such file or directory
+  (compiling source file '/src/State.cpp')
+  
+C:\Projects\Project Latest Update\Regex-to-Finite-Automaton-Covnverter-main\Regex-to-Finite-Automaton-Covnverter-main\WalnutApp\src\Transition.cpp(1,10): error C1083: Cannot open include file: 'State.h': No such file or directory
+  WalnutApp.cpp
+C:\Projects\Project Latest Update\Regex-to-Finite-Automaton-Covnverter-main\Regex-to-Finite-Automaton-Covnverter-main\WalnutApp\src\WalnutApp.cpp(3,10): error C1083: Cannot open include file: 'regularExpression.h': No such file or directory
+  Generating Code...
